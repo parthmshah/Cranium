@@ -15,3 +15,5 @@ Install instructions:
 6. Set the name of the directory of the project
 
 7. Clone the code and build it in Android Studio
+
+8. Enjoy! 
