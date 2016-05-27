@@ -1,6 +1,7 @@
 # Cranium
 
 Install instructions:
+
 1. Copy this git repo: https://github.com/C1-SoftwareEngineeringSummit/Team-2.git
 
 2. Open Android Studio
